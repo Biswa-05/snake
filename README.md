@@ -20,7 +20,7 @@ This is a classic Snake game implemented in Python using the Pygame library.
    - Clone this repository to your local machine.
    - Navigate to the project directory and run the following command:
      ```
-     python snake_game.py
+     python import pygame.py
      ```
 
 3. **Game Controls**:
